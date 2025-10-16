@@ -13,7 +13,7 @@
 - AI-assisted analytics and reporting
 - Easy integration with external tools and APIs
 
-**View your app locally:** [http://localhost:5173/]
+**View your app locally:** http://localhost:5173/
 
 ## Create an account to access the App
 
